@@ -2,7 +2,7 @@
 
 [Conan.io](https://conan.io) package for [Boost.Wave](https://github.com/Boostorg/Wave) project
 
-The packages generated with this **conanfile** can be found in [Bintray](https://bintray.com/bincrafters/conan-public/Boost.Wave%3Abincrafters).
+The packages generated with this **conanfile** can be found in [Bintray](https://bintray.com/bincrafters/public-conan/Boost.Wave%3Abincrafters).
 
 ## For Users: Use this package
 
