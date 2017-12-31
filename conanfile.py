@@ -7,7 +7,7 @@ from conans import ConanFile, tools
 class BoostWaveConan(ConanFile):
     name = "boost_wave"
     version = "1.66.0"
-    url = "https://github.com/bincrafters/conan-boost-wave"
+    url = "https://github.com/bincrafters/conan-boost_wave"
 
     lib_short_names = ["wave"]
     is_header_only = False
