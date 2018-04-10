@@ -15,7 +15,6 @@ class BoostWaveConan(ConanFile):
     options = {"shared": [True, False]}
     default_options = "shared=False"
 
-    # TODO: date_time
     requires = (
         "boost_assert/1.67.0@bincrafters/testing",
         "boost_concept_check/1.67.0@bincrafters/testing",
