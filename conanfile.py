@@ -8,6 +8,7 @@ base = python_requires("boost_base/1.69.0@bincrafters/testing")
 
 class BoostWaveConan(base.BoostBaseConan):
     name = "boost_wave"
+    version = "1.69.0"
     url = "https://github.com/bincrafters/conan-boost_wave"
     lib_short_names = ["wave"]
     options = {"shared": [True, False]}
